@@ -1,0 +1,38 @@
+.redes,.terms,.Contact{
+    list-style: none;
+    color: white;
+}
+.footer-item li a, .footer-item li{
+    color: gray;
+    text-decoration: none;
+}
+.footer-item a:hover{
+    color: #ddd;
+    cursor: pointer;
+
+}
+footer p{
+    text-align: center;
+}
+footer{
+    color: white;
+    background-color: #1e3861;
+    width: 100%;
+}
+.footer-item{
+    margin: 0px 10px;
+    margin-top: 10px;
+}
+.footer-flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+.terms{
+    padding-left:0;
+}
+.footer-item{
+    color: white;
+}
+.footer-flex li{
+    margin-left: 4px;
+}
